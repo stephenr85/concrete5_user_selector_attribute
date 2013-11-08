@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+<table name="atUserSelector">
+    <field name="avID" type="I" size="10">
+      <KEY/>
+      <DEFAULT value="0"/>
+      <UNSIGNED/>
+    </field>
+   <field name="value" type="I">
+      <NOTNULL/>
+      <DEFAULT value="0"/>
+    </field>
+  </table>
+</schema>
