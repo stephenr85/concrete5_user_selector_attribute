@@ -6,7 +6,7 @@ class UserSelectorAttributePackage extends Package {
 
 	protected $pkgHandle = 'user_selector_attribute';
 	protected $appVersionRequired = '5.5.1';
-	protected $pkgVersion = '1.0';
+	protected $pkgVersion = '0.9.1';
 	
 	public function getPackageDescription() {
 		return t("Attribute that allows the selection of users.");
