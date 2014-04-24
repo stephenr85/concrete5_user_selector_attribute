@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Project-Id-Version: user_selector_attribute 0.9.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-24 08:51+0000\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#: packages/user_selector_attribute/controller.php:12
+msgid "Attribute that allows the selection of users."
+msgstr ""
+
+#: packages/user_selector_attribute/controller.php:16
+msgid "User Selector Attribute"
+msgstr ""
+
+#: packages/user_selector_attribute/controller.php:24
+msgid "User Selector"
+msgstr ""
+
+#: packages/user_selector_attribute/models/attribute/types/user_selector/form.php:17
+msgid "Deselect User"
+msgstr ""
